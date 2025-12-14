@@ -1,4 +1,5 @@
-# Projects in Data Science (2025)
+# ML Model for automated diagnosis and classification of skin cancer in dermoscioy images
+## Projects in Data Science (2025)
 
 Final Assignment
 
