@@ -1,5 +1,5 @@
 # ML Model for automated diagnosis and classification of skin cancer in dermoscioy images
-## Projects in Data Science (2025)
+## Projects in Data Science (2025) Bsc In Data Science, IT University of Copenhagen
 
 Final Assignment
 
